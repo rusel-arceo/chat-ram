@@ -1,0 +1,16 @@
+
+
+body{
+    background-color: rgb(195, 221, 187);
+    margin: 1px;    
+}
+
+h1{
+    text-align: center;
+    font-size: 42px;
+    color:navy;
+}
+
+form {
+    text-align: center;
+}
